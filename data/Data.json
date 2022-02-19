@@ -1,0 +1,73 @@
+{
+  "navPills": [
+    { "tabName": "tabHonda", "showName": "Honda", "type": "hondas" },
+    { "tabName": "tabYamaha", "showName": "Yamaha", "type": "yamahas" },
+    { "tabName": "tabBackground", "showName": "Nền", "type": "backgrounds" }
+  ],
+  "tabPanes": [
+    {
+      "id": "honda01",
+      "type": "hondas",
+      "name": "Wave",
+      "desc": "Wave Alpha 110cc phiên bản 2020 trẻ trung và cá tính với thiết kế bộ tem mới, tạo những điểm nhấn ấn tượng, thu hút ánh nhìn, cho bạn tự tin ghi lại dấu ấn cùng bạn bè của mình trên mọi hành trình.",
+      "imgSrc_jpg": "../assets/images/hondas/hondas01A.jpg",
+      "imgSrc_png": "../assets/images/hondas/hondas01B.png"
+    },
+    {
+      "id": "honda02",
+      "type": "hondas",
+      "name": "Super Cub C125",
+      "desc": "Thiết kế cổ điển, thanh lịch đậm chất Super CUB",
+      "imgSrc_jpg": "../assets/images/hondas/honda02A.jpeg",
+      "imgSrc_png": "../assets/images/hondas/honda02B.png"
+    },
+    {
+      "id": "honda03",
+      "type": "hondas",
+      "name": "Future 125i",
+      "desc": "Thiết kế cổ điển, thanh lịch đậm chất Super CUB",
+      "imgSrc_jpg": "../assets/images/hondas/honda03A.jpeg",
+      "imgSrc_png": "../assets/images/hondas/honda03B.png"
+    },
+    {
+      "id": "honda04",
+      "type": "hondas",
+      "name": "SH 350i",
+      "desc": "Thiết kế cổ điển, thanh lịch đậm chất Super CUB",
+      "imgSrc_jpg": "../assets/images/hondas/honda04A.jpeg",
+      "imgSrc_png": "../assets/images/hondas/honda04B.png"
+    },
+    {
+      "id": "yamaha01",
+      "type": "yamahas",
+      "name": "Exciter 155 ",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid, nulla.",
+      "imgSrc_jpg": "../assets/images/yamahas/yamaha01A.jpeg",
+      "imgSrc_png": "../assets/images/yamahas/yamaha01B.png"
+    },
+    {
+      "id": "background01",
+      "type": "backgrounds",
+      "name": "Background 1",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid, nulla.",
+      "imgSrc_jpg": "../assets/images/background/background01.jpeg",
+      "imgSrc_png": "../assets/images/background/background01.jpeg"
+    },
+    {
+      "id": "background02",
+      "type": "backgrounds",
+      "name": "Background 2",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid, nulla.",
+      "imgSrc_jpg": "../assets/images/background/background02.jpeg",
+      "imgSrc_png": "../assets/images/background/background02.jpeg"
+    },
+    {
+      "id": "background03",
+      "type": "backgrounds",
+      "name": "Background 3",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid, nulla.",
+      "imgSrc_jpg": "../assets/images/background/background03.jpeg",
+      "imgSrc_png": "../assets/images/background/background03.jpeg"
+    }
+  ]
+}
